@@ -1,0 +1,190 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family:"Poppins", sans-serif;;
+
+}
+.contaner{
+    position:relative;
+    display: flex;
+    height: 80px;
+    background-color: rgb(148, 18, 181);
+    
+}
+
+.contaner h1{
+    position:fixed;
+    margin-left: 23%;
+    margin-top:200px;
+    font-size: 3rem;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(179, 124, 124) (190, 154, 154);
+    
+    
+}
+
+.logo img{
+    position: absolute;
+    margin-top:0px;
+    margin-left:0px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.first{
+    position:absolute;
+}
+.first img{
+    position:absolute;
+    margin-top: 140px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.second{
+    position:absolute;
+}
+.second img{
+    position:absolute;
+    margin-top: 270px;
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.third{
+    position:absolute;
+}
+.third img{
+    position:absolute;
+    margin-top: 140px;
+    margin-left: 1250px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+    
+}
+
+.four{
+    position:absolute;
+}
+.four img{
+    position:absolute;
+    margin-top: 270px;
+    margin-left: 1250px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.five{
+    position:absolute;   
+}
+.five img{
+    margin-top: 530px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.six{
+    position:absolute;
+    
+}
+.six img{
+    margin-top: 400px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.seven{
+    position:absolute;
+}
+.seven img{
+    margin-top: 530px;
+    margin-left: 1250px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.eight{
+    position:absolute;   
+}
+.eight img{
+    margin-top: 400px;
+    margin-left: 1250px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+nav{
+    margin-top: 20px;
+    margin-left: 900px;
+}
+.bar a{
+    font-size:1.5rem;     
+    color:#b7e51e;
+    font-family:'Poppins', sans-serif;
+    margin:0 10px;
+    font-weight: 500;
+    transition: 0.8s ease;
+    
+}
+.bar a:hover{
+    background-color: rgb(93, 93, 126);
+    color: rgb(0, 0, 0);
+    
+}
+
+.logo-cre{
+    position:absolute;
+
+    margin-top: 9px;
+    margin-left:80px;
+    font-size:3rem;
+    color: black;
+    font-weight: 800;
+    cursor: pointer;
+    transition: 0.5 ease;
+    color: rgb(170, 161, 161);
+
+}
+span{
+    color: rgb(59, 234, 234);
+}
+
+hr{
+    position: relative;
+    margin-top: 25px;
+}
+#member-oc{
+    position:absolute;
+    width: 150px;
+    height: 20px;
+    margin-right: 400px;
+    margin-left: 550px;
+    margin-top: 30px;
+    display: flex;
+}
+
+
+
+
+
